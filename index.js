@@ -31,7 +31,7 @@ process.stdin.on("data", data => {
     }
 });
 
-// When exit in the line 35 finishs, it will call this callback function
+// When exit in the line 30 finishs, it will call this callback function
 process.on("exit", () => {
     console.log(`
         Fantastic, Your Name!
