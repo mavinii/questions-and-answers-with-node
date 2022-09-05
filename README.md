@@ -9,3 +9,6 @@ It was created to study `asynchronous` in node, also to undestand:
 
 ## How to run it:
 type node index.js and press enter.
+
+## RocketSeat:
+Tutor: [Mayk Brito](https://github.com/maykbrito)
